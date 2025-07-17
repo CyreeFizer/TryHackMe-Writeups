@@ -55,11 +55,16 @@ Hands-on cybersecurity lab notes and writeups from my TryHackMe learning journey
 - Application of defense-in-depth principles
 
 ---
+## 📌 What's Next
+- Start the TryHackMe “Complete Beginner” path
+- Add structured writeups for each new room
+- Begin lab-based projects using VirtualBox and open-source tools
 
-## 🗂️ Coming Next
-- Starting “Complete Beginner” path: Focus on enumeration, scanning, and practical exploitation.
-- Will include writeups for: “Intro to Offensive Security”, “Nmap”, “Burp Suite”, and more.
+---
 
+📫 **Contact Me**  
+Email: Cyree.fizer06@gmail.com  
+LinkedIn: www.linkedin.com/in/cyreefizer 
 ---
 
 **GitHub Portfolio Coming Soon** | ISC2 CC Retake Scheduled for July 2025  
